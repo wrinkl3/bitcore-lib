@@ -1,6 +1,6 @@
 {
-  "name": "bitcore-lib",
-  "version": "0.14.0",
+  "name": "solarcore-lib",
+  "version": "0.1.0",
   "description": "A pure and powerful JavaScript Bitcoin library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
@@ -57,7 +57,7 @@
     }
   ],
   "keywords": [
-    "bitcoin",
+    "solarcoin",
     "transaction",
     "address",
     "p2p",
@@ -74,7 +74,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-lib.git"
+    "url": "https://github.com/wrinkl3/solarcore-lib.git"
   },
   "browser": {
     "request": "browser-request"
@@ -88,7 +88,7 @@
     "lodash": "=3.10.1"
   },
   "devDependencies": {
-    "bitcore-build": "bitpay/bitcore-build",
+    "bitcore-build": "wrinkl3/solarcore-build",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
