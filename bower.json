@@ -1,6 +1,6 @@
 {
-  "name": "bitcore-lib",
-  "main": "./bitcore-lib.min.js",
+  "name": "solarcore-lib",
+  "main": "./solarcore-lib.min.js",
   "version": "0.13.19",
   "homepage": "http://bitcore.io",
   "authors": [
@@ -11,9 +11,9 @@
     "globals"
   ],
   "keywords": [
-    "bitcoin",
-    "bitcore",
-    "btc",
+    "solarcoin",
+    "solarcore",
+    "slr",
     "satoshi"
   ],
   "license": "MIT",
