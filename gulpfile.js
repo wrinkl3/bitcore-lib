@@ -1,5 +1,5 @@
 
 
-var bitcoreTasks = require('solarcore-build');
+var solarcoreTasks = require('solarcore-build');
 
 solarcoreTasks('lib');
