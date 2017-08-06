@@ -63,6 +63,7 @@ solarcore.deps.bnjs = require('bn.js');
 solarcore.deps.bs58 = require('bs58');
 solarcore.deps.Buffer = Buffer;
 solarcore.deps.elliptic = require('elliptic');
+litecore.deps.scryptsy = require('scryptsy');
 solarcore.deps._ = require('lodash');
 
 // Internal usage, exposed for testing/advanced tweaking
