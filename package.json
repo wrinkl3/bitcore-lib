@@ -1,5 +1,5 @@
 {
-  "name": "solarcore-lib",
+  "name": "solarcore-lib-test",
   "version": "0.1.0",
   "description": "A pure and powerful JavaScript Solarcoin library.",
   "author": "BitPay <dev@bitpay.com>",
@@ -86,7 +86,8 @@
     "elliptic": "=3.0.3",
     "inherits": "=2.0.1",
     "lodash": "=3.10.1",
-    "scryptsy": "=2.0.0"
+    "scryptsy": "=2.0.0",
+    "solarcore-lib": "^0.1.0"
   },
   "devDependencies": {
     "solarcore-build": "wrinkl3/solarcore-build",
